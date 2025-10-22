@@ -1,2 +1,3 @@
-# lid-holder
+# Lid Holder
+
 Mason Jar Lid Holder
