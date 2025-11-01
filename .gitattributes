@@ -1,5 +1,8 @@
+*.[Bb][Ll][Ee][Nn][Dd] filter=lfs diff=lfs merge=lfs -text
 *.[Ff][3][Dd] filter=lfs diff=lfs merge=lfs -text
+*.[Gg][Ll][Bb] filter=lfs diff=lfs merge=lfs -text
 *.[Jj][Pp][Ee][Gg] filter=lfs diff=lfs merge=lfs -text
 *.[Jj][Pp][Gg] filter=lfs diff=lfs merge=lfs -text
 *.[Pp][Nn][Gg] filter=lfs diff=lfs merge=lfs -text
 *.[Ss][Tt][Ll] filter=lfs diff=lfs merge=lfs -text
+*.[Uu][Ss][Dd][Zz] filter=lfs diff=lfs merge=lfs -text
